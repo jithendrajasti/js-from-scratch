@@ -1,0 +1,10 @@
+"use strict";
+//ila rasthe manam raasedi newer version of code ani ardam;
+let accountName="jithendrajasti";
+let accPassword="jithu123z";
+let age=19;
+let isLoggedIn=true;
+console.table([accountName,accPassword,age,isLoggedIn]);
+console.log(typeof undefined);
+console.log(typeof null);
+console.log(typeof accPassword);
